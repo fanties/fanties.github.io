@@ -1,0 +1,7 @@
+/node_modules/
+/docs/.vuepress/dist
+yarn.lock
+package-lock.json
+yarn-error.log
+.DS_Store
+/.idea
