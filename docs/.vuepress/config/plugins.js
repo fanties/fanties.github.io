@@ -14,7 +14,7 @@ module.exports = [
       options: {
         clientID: "a49669ea26b19e661005",
         clientSecret: "88eb9cf91f13e82a2440851fe575f27b1ac29aed",
-        repo: "flyoo.cn", // 仓库
+        repo: "fanties.github.io", // 仓库
         owner: "fanties", //所有者
         admin: ["fanties"],
         distractionFreeMode: false,
