@@ -14,10 +14,10 @@ echo 'flyoo.cn' > CNAME
 
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
-  githubUrl=git@github.com:fanties/flyoo.cn.git
+  githubUrl=git@github.com:fanties/fanties.github.io.git
 else
   msg='来自github actions的自动部署'
-  githubUrl=https://fanties:${GITHUB_TOKEN}@github.com/fanties/flyoo.cn.git
+  githubUrl=https://fanties:${GITHUB_TOKEN}@github.com/fanties/fanties.github.io.git
   git config --global user.name "fanties"
   git config --global user.email "1244404139@qq.com"
 fi

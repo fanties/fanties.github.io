@@ -2,7 +2,7 @@
 
 # 本脚本为自动部署的入口脚本，只需执行该脚本，即可实现 GitHub 的自动部署，以及 GitHub 的仓库同步到 Gitee 中，最后 Gitee 将仓库同步到到服务器
 
-GITHUB_REPO=git@github.com/fanties/symbol_blog.git
+GITHUB_REPO=git@github.com/fanties/fanties.github.io.git
 
 comment=$1
 
