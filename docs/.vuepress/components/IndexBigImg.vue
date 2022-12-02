@@ -592,6 +592,28 @@ function nextAllTipElement(elem) {
   }
 }
 
+@keyframes bounce-in {
+  0% {
+    transform: translateY(0);
+  }
+
+  20% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+
+  80% {
+    transform: translateY(0);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
 .banner-arrow::before {
   content: "";
   width: 20px;
