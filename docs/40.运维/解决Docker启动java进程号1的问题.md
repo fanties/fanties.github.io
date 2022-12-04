@@ -8,6 +8,11 @@ tags:
   - 
 ---
 
+## 前言
+
+我们在Java容器中，经常需要用到jmap等命令，但是默认Java启动的进程号是1，无法使用这些命令。
+
+<!-- more -->
 
 ### 解决spring boot应用以docker容器方式启动后，进程ID是1而导致的jstack和jmap等命令不可用的现象  
 

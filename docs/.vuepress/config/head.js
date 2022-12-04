@@ -23,7 +23,7 @@ module.exports = [
     "meta",
     {
       name: "keywords",
-      content: "一念千秋,拾光小镇,Go,Golang开发,Java,Flutter,Kotlin,后端,架构",
+      content: "知微坚果,一念千秋,拾光小镇,Go,Golang开发,Java,Flutter,Kotlin,后端,架构",
     },
   ],
   ["meta", { name: "theme-color", content: "#11a8cd" }], // 移动浏览器主题颜色

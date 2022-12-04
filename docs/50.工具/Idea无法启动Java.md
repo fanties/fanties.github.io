@@ -3,7 +3,7 @@ title: Idea启动Java报错Shorten command line
 date: 2021-03-25 12:00:00
 sidebar: auto
 categories: 
-  - tips
+  - 工具
 tags: 
   - Idea
   - 工具
@@ -22,7 +22,7 @@ Error running 'SpringBootMainApplication': Command line is too long. Shorten com
 
 修改项目下 .idea\workspace.xml
 
-找到标签 <component name="PropertiesComponent">。在标签里加一行  ：
+找到标签 `<component name="PropertiesComponent">`。在标签里加一行  ：
 ```xml
 <property name="dynamic.classpath" value="true" />
 ```
