@@ -3,7 +3,7 @@ title: yarn搭建与使用
 date: 2021-01-28 11:29:00
 sidebar: auto
 categories: 
-  - 环境
+  - 前端
 tags: 
   - npm
 publish: true

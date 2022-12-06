@@ -3,7 +3,7 @@ title: Flutter Platform channel 数据类型与Java对应关系
 date: 2021-05-29 22:46:00
 sidebar: auto
 categories: 
-  - Flutter
+  - 前端
 tags: 
   - Flutter
   - Dart
